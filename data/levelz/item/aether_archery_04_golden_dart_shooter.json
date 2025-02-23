@@ -1,0 +1,7 @@
+{
+    "replace": false,
+    "skill": "archery",
+    "level": 4,
+    "item": "minecraft:custom_item",
+    "object": "aether:golden_dart_shooter"
+}

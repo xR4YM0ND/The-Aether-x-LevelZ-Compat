@@ -1,0 +1,8 @@
+{
+    "replace": false,
+    "level": 8,
+    "block": [
+        "aether:zanite_ore",
+        "aether:zanite_block"
+    ]
+}

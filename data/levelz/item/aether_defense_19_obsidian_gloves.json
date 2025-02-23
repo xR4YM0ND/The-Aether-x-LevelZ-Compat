@@ -1,0 +1,7 @@
+{
+    "replace": false,
+    "skill": "defense",
+    "level": 19,
+    "item": "minecraft:custom_item",
+    "object": "aether:phoenix_gloves"
+}

@@ -1,0 +1,7 @@
+{
+    "replace": false,
+    "skill": "defense",
+    "level": 13,
+    "item": "minecraft:custom_item",
+    "object": "aether:shield_of_repulsion"
+}

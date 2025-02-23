@@ -1,0 +1,8 @@
+{
+    "replace": false,
+    "level": 5,
+    "block": [
+        "aether:ambrosium_ore",
+        "aether:ambrosium_block"
+    ]
+}

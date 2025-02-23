@@ -1,0 +1,7 @@
+{
+    "replace": false,
+    "skill": "farming",
+    "level": 1,
+    "item": "minecraft:custom_item",
+    "object": "aether:skyroot_bucket"
+}

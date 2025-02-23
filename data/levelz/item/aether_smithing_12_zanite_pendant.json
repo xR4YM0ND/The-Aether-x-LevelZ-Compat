@@ -1,0 +1,7 @@
+{
+    "replace": false,
+    "skill": "smithing",
+    "level": 12,
+    "item": "minecraft:custom_item",
+    "object": "aether:zanite_pendant"
+}

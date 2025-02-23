@@ -1,0 +1,7 @@
+{
+    "replace": false,
+    "skill": "alchemy",
+    "level": 16,
+    "item": "minecraft:custom_item",
+    "object": "aether:valkyrie_cape"
+}

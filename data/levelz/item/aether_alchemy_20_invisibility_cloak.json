@@ -1,0 +1,7 @@
+{
+    "replace": false,
+    "skill": "alchemy",
+    "level": 20,
+    "item": "minecraft:custom_item",
+    "object": "aether:invisibility_cloak"
+}

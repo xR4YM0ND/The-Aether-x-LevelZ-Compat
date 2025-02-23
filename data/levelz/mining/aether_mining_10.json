@@ -1,0 +1,8 @@
+{
+    "replace": false,
+    "level": 10,
+    "block": [
+        "aether:gravitite_ore",
+        "aether:enchanted_gravitite"
+    ]
+}

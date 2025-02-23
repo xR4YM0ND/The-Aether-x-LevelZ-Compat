@@ -1,0 +1,7 @@
+{
+    "replace": false,
+    "skill": "defense",
+    "level": 10,
+    "item": "minecraft:custom_item",
+    "object": "aether:gravitite_gloves"
+}
