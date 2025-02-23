@@ -291,7 +291,11 @@
         "skills": {
             "mining": 3
         },
-        "blocks": [
+        "items": [
+            "aether:holystone_pickaxe",
+            "aether:holystone_shovel"
+        ],
+        "mining": [
             "aether:holystone",
             "aether:holystone_stairs",
             "aether:holystone_slab",
@@ -310,10 +314,6 @@
             "aether:icestone_stairs",
             "aether:icestone_slab",
             "aether:icestone_wall"
-        ],
-        "items": [
-            "aether:holystone_pickaxe",
-            "aether:holystone_shovel"
         ]
     },
     "aether_mining_05": {
@@ -321,7 +321,7 @@
         "skills": {
             "mining": 5
         },
-        "blocks": [
+        "mining": [
             "aether:ambrosium_ore",
             "aether:ambrosium_block"
         ]
@@ -331,13 +331,13 @@
         "skills": {
             "mining": 8
         },
-        "blocks": [
-            "aether:zanite_ore",
-            "aether:zanite_block"
-        ],
         "items": [
             "aether:zanite_pickaxe",
             "aether:zanite_shovel"
+        ],
+        "mining": [
+            "aether:zanite_ore",
+            "aether:zanite_block"
         ]
     },
     "aether_mining_10": {
@@ -345,13 +345,13 @@
         "skills": {
             "mining": 10
         },
-        "blocks": [
-            "aether:gravitite_ore",
-            "aether:enchanted_gravitite"
-        ],
         "items": [
             "aether:gravitite_pickaxe",
             "aether:gravitite_shovel"
+        ],
+        "mining": [
+            "aether:gravitite_ore",
+            "aether:enchanted_gravitite"
         ]
     },
     "aether_mining_13": {
