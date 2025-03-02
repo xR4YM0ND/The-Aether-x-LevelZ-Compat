@@ -25,8 +25,7 @@
         },
         "items": [
             "aether:zanite_sword",
-            "aether:pig_slayer",
-            "aether:hammer_of_kingbdogz"
+            "aether:pig_slayer"
         ]
     },
     "aether_melee_10": {
@@ -189,8 +188,7 @@
             "archery": 16
         },
         "items": [
-            "aether:lightning_knife",
-            "aether:hammer_of_kingbdogz"
+            "aether:lightning_knife"
         ]
     },
     "aether_agility_02": {
@@ -272,6 +270,9 @@
         "skills": {
             "magic": 20
         },
+        "blocks": [
+            "aether:sun_altar"
+        ],
         "items": [
             "aether:invisibility_cloak"
         ]
@@ -337,7 +338,20 @@
         ],
         "mining": [
             "aether:zanite_ore",
-            "aether:zanite_block"
+            "aether:zanite_block",
+            "aether:carved_stone",
+            "aether:locked_carved_stone",
+            "aether:trapped_carved_stone",
+            "aether:boss_doorway_carved_stone",
+            "aether:treasure_doorway_carved_stone",
+            "aether:carved_stairs",
+            "aether:carved_slab",
+            "aether:carved_wall",
+            "aether:sentry_stone",
+            "aether:locked_sentry_stone",
+            "aether:trapped_sentry_stone",
+            "aether:boss_doorway_sentry_stone",
+            "aether:treasure_doorway_sentry_stone"
         ]
     },
     "aether_mining_10": {
@@ -362,6 +376,44 @@
         "items": [
             "aether:valkyrie_pickaxe",
             "aether:valkyrie_shovel"
+        ],
+        "mining": [
+            "aether:angelic_stone",
+            "aether:locked_angelic_stone",
+            "aether:trapped_angelic_stone",
+            "aether:boss_doorway_angelic_stone",
+            "aether:treasure_doorway_angelic_stone",
+            "aether:angelic_stairs",
+            "aether:angelic_slab",
+            "aether:angelic_wall",
+            "aether:light_angelic_stone",
+            "aether:locked_light_angelic_stone",
+            "aether:trapped_light_angelic_stone",
+            "aether:boss_doorway_light_angelic_stone",
+            "aether:treasure_doorway_light_angelic_stone",
+            "aether:pillar",
+            "aether:pillar_top"
+        ]
+    },
+    "aether_mining_17": {
+        "replace": false,
+        "skills": {
+            "mining": 17
+        },
+        "mining": [
+            "aether:hellfire_stone",
+            "aether:locked_hellfire_stone",
+            "aether:trapped_hellfire_stone",
+            "aether:boss_doorway_hellfire_stone",
+            "aether:treasure_doorway_hellfire_stone",
+            "aether:hellfire_stairs",
+            "aether:hellfire_slab",
+            "aether:hellfire_wall",
+            "aether:light_hellfire_stone",
+            "aether:locked_light_hellfire_stone",
+            "aether:trapped_light_hellfire_stone",
+            "aether:boss_doorway_light_hellfire_stone",
+            "aether:treasure_doorway_light_hellfire_stone"
         ]
     },
     "aether_smithing_08": {
@@ -454,6 +506,16 @@
         },
         "blocks": [
             "aether:incubator"
+        ]
+    },
+    "aether_double_hammer_of_kingbdogz": {
+        "replace": false,
+        "skills": {
+            "archery": 16,
+            "melee": 8
+        },
+        "blocks": [
+            "aether:hammer_of_kingbdogz"
         ]
     }
 }
