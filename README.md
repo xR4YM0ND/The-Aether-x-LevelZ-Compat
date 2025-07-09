@@ -8,8 +8,8 @@ this datapack brings parity with [the aether](https://modrinth.com/mod/aether) a
 place the datapack in `saves/yourworld/datapacks` or use mods like [Paxi](https://modrinth.com/mod/paxi) or [Global Packs](https://modrinth.com/mod/globalpacks).
 
 ## Credits
-<a href="https://discord.gg/2peBqWRwVp" target="_blank">
-<img alt="Discord Globox_Hood" src="https://img.shields.io/discord/745451299713056791?color=7289DA&label=DISCORD&logo=discord&logoColor=white&style=for-the-badge"></a>
+<a href="https://discord.gg/WXdSYn4yHB" target="_blank">
+<img alt="Discord Fabricated Atelier" src="https://img.shields.io/discord/745451299713056791?color=7289DA&label=DISCORD&logo=discord&logoColor=white&style=for-the-badge"></a>
 <a href="https://github.com/xR4YM0ND/The-Aether-x-LevelZ-Compat/blob/1.21.1/LICENSE" target="_blank">
 <img alt="GitHub License" src="https://img.shields.io/github/license/xR4YM0ND/NutritionZ?style=for-the-badge"></a>
 <a href="https://github.com/xR4YM0ND/The-Aether-x-LevelZ-Compat" target="_blank">
