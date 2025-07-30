@@ -1,6 +1,6 @@
 {
     "replace": false,
-    "skill": "melee",
+    "skill": "strength",
     "level": 4,
     "item": "minecraft:sword",
     "material": "holystone"
