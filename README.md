@@ -4,6 +4,9 @@
 
 this datapack brings parity with [the aether](https://modrinth.com/mod/aether) and [levelz](https://modrinth.com/mod/levelz)
 
+# OUTDATED!
+## Use [RAY's LevelZ Compat](https://modrinth.com/mod/rays-levelz-compat) instead.
+
 ## Installation
 place the datapack in `saves/yourworld/datapacks` or use mods like [Paxi](https://modrinth.com/mod/paxi) or [Global Packs](https://modrinth.com/mod/globalpacks).
 
